@@ -1,0 +1,21 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Web server for reactjs app",
+  "main": "server.js",
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ReactJS",
+    "app",
+    "Server"
+  ],
+  "author": "Hisham Haniffa",
+  "license": "ISC"
+}
