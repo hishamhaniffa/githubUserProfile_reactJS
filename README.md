@@ -7,7 +7,7 @@ body-parser
 
 
 Installation Guide <br />
-1) Clone the repo :  <br />
+1) Clone the repo : git@github.com:hishamhaniffa/githubUserProfile_reactJS.git <br />
 2) npm install <br />
 3) npm start <br />
 Check localhost:3000 <br />
